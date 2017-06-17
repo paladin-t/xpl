@@ -1,7 +1,8 @@
 /**
- * Author: paladin_t, hellotony521@gmail.com
- * Created: Oct. 14, 2011
- * Last edited: May. 29, 2013
+ * Author: Wang Renxin, hellotony521@qq.com
+ * For the latest info, see https://github.com/paladin-t/xpl/
+ * Created:     Oct. 14, 2011
+ * Last edited: Jun. 17, 2017
  *
  * This program is free software. It comes without any warranty, to
  * the extent permitted by applicable law. You can redistribute it
